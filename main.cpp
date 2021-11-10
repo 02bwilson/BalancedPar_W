@@ -10,7 +10,7 @@ int main() {
 	cout << "The String: ((())) {} {{ { }} }   is: ";
 	cout << isThisBal.isBalanced("((())) {} {{ { }} }");
 
-	cout << endl <<  "Input your own string!" << endl;
+	cout << endl <<  "Input your own string! " << endl;
 	string inputString;
 	cin >> inputString;
 
